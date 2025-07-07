@@ -9,9 +9,7 @@
   <style>
     .navbar-brand {
       font-weight: bold;
-      color: red;
-    }
-    .banner {
+      color: red;}.banner {
       background: url('https://via.placeholder.com/1200x300') no-repeat center center;
       background-size: cover;
       height: 300px;
@@ -19,11 +17,8 @@
       align-items: center;
       justify-content: center;
       color: white;
-      text-shadow: 2px 2px 4px #000;
-    }
-    .content-section {
-      padding: 40px 0;
-    }
+      text-shadow: 2px 2px 4px #000;}
+    .content-section {padding: 40px 0;}
     footer {
       background: #343a40;
       color: white;
