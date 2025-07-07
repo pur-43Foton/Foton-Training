@@ -11,7 +11,6 @@
 <div class="collapse navbar-collapse" id="navbarNav">
 <ul class="navbar-nav me-auto">
 <li class="nav-item"><a class="nav-link" href="home.html">Home</a></li>
-<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Home</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head><body><nav class="navbar navbar-dark bg-dark p-3"><div class="container-fluid">
@@ -19,7 +18,6 @@
 <div class="container mt-5"><h1>Home</h1><p>Halaman home masih dalam pengembangan.</p>
 <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a></div></body></html>
 <li class="nav-item"><a class="nav-link" href="katalog.html">Katalog Video</a></li>
-<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Katalog Video</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head><body><nav class="navbar navbar-dark bg-dark p-3"><div class="container-fluid">
@@ -27,7 +25,6 @@
 <div class="container mt-5"><h1>Katalog Video</h1><p>Halaman katalog video masih dalam pengembangan.</p>
 <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a></div></body></html>
 <li class="nav-item"><a class="nav-link" href="faq.html">FAQ</a></li>
-<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>FAQ</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head><body><nav class="navbar navbar-dark bg-dark p-3"><div class="container-fluid">
@@ -35,7 +32,6 @@
 <div class="container mt-5"><h1>FAQ</h1><p>Halaman faq masih dalam pengembangan.</p>
 <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a></div></body></html>
 <li class="nav-item"><a class="nav-link" href="jadwal.html">Jadwal Training</a></li>
-<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Jadwal Training</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head><body><nav class="navbar navbar-dark bg-dark p-3"><div class="container-fluid">
@@ -44,7 +40,6 @@
 <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a></div></body></html>
 <li class="nav-item"><a class="nav-link" href="form-permintaan.html">Form Permintaan Training</a></li>
 </ul>
-<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Form Permintaan Training</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head><body><nav class="navbar navbar-dark bg-dark p-3"><div class="container-fluid">
@@ -64,7 +59,7 @@
 document.getElementById("loginForm").addEventListener("submit",function(e){
 e.preventDefault();const email=document.getElementById("email").value;
 const password=document.getElementById("password").value;
-if(email==="purteguh17@gmail.com"&&password==="Tokopedia7890@"){
-window.location.href="dashboard.html";}else{alert("Login gagal. Email atau password salah.");}
+if(login==="admin"&&password==="1234"){
+window.location.href="dashboard.html";}else{alert("Login gagal. password salah.");}
 });
 </script></body></html>
