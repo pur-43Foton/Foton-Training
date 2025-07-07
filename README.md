@@ -43,7 +43,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav me-auto">
-          <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Home<dealer>customer>Teknisi>/a></li>
           <li class="nav-item"><a class="nav-link" href="#">My Courses</a></li>
           <li class="nav-item"><a class="nav-link" href="#">Katalog Video</a></li>
           <li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
