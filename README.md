@@ -43,12 +43,123 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav me-auto">
-          <li class="nav-item"><a class="nav-link" href="#">Home<dealer>customer>Teknisi>/a></li>
-          <li class="nav-item"><a class="nav-link" href="#">My Courses</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+          <!index.html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home - FOTON Training Center</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark p-3">
+    <div class="container-fluid">
+      <a class="navbar-brand text-white" href="index.html">FOTON Training Center</a>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <h1>Home</h1>
+    <p>Halaman home masih dalam pengembangan.</p>
+    <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a>
+  </div>
+</body>
+</html>
+          <li class="nav-item"><a class="nav-link" href="#">My Courses</a></li> 
+          <!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Katalog Video - FOTON Training Center</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark p-3">
+    <div class="container-fluid">
+      <a class="navbar-brand text-white" href="index.html">FOTON Training Center</a>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <h1>Katalog Video</h1>
+    <p>Halaman katalog video masih dalam pengembangan.</p>
+    <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a>
+  </div>
+</body>
+</html>
           <li class="nav-item"><a class="nav-link" href="#">Katalog Video</a></li>
           <li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
+          
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FAQ - FOTON Training Center</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark p-3">
+    <div class="container-fluid">
+      <a class="navbar-brand text-white" href="index.html">FOTON Training Center</a>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <h1>FAQ</h1>
+    <p>Halaman faq masih dalam pengembangan.</p>
+    <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a>
+  </div>
+</body>
+</html>
           <li class="nav-item"><a class="nav-link" href="#">Jadwal Training</a></li>
+          <!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jadwal Training - FOTON Training Center</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark p-3">
+    <div class="container-fluid">
+      <a class="navbar-brand text-white" href="index.html">FOTON Training Center</a>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <h1>Jadwal Training</h1>
+    <p>Halaman jadwal training masih dalam pengembangan.</p>
+    <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a>
+  </div>
+</body>
+</html>
           <li class="nav-item"><a class="nav-link" href="#">Form Permintaan Training</a></li>
+          <!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Form Permintaan Training - FOTON Training Center</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <nav class="navbar navbar-dark bg-dark p-3">
+    <div class="container-fluid">
+      <a class="navbar-brand text-white" href="index.html">FOTON Training Center</a>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <h1>Form Permintaan Training</h1>
+    <p>Halaman form permintaan training masih dalam pengembangan.</p>
+    <a href="index.html" class="btn btn-secondary mt-4">Kembali ke Beranda</a>
+  </div>
+</body>
+</html>
         </ul>
         <form id="loginForm" class="d-flex">
           <input class="form-control me-2" type="text" id="username" placeholder="Username">
